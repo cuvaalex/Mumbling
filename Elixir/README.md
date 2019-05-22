@@ -1,8 +1,8 @@
 # Mumbling
 
-Difficulty: Novice
-Duration: 2h
-Language: Elixir
+- **Difficulty**: Novice
+- **Duration**: 2h
+- **Language**: Elixir
 
 This time no story, no theory. The examples below show you how to write function accum:
 
@@ -15,11 +15,11 @@ accum("cwAt") -> "C-Ww-Aaa-Tttt"
 ```
 You should respect the TDD approach:
 
-1 Write a simple failing test
-2 Write enough production code to make the test green
-3 Refactor the production code to respect SOLID and Clean Code principle, then run the test again
-4 Refactor the test code to respect SOLID and Clean Code principle, then run the test again
-5 Restart with 1.
+1. Write a simple failing test
+2. Write enough production code to make the test green
+3. Refactor the production code to respect SOLID and Clean Code principle, then run the test again
+4. Refactor the test code to respect SOLID and Clean Code principle, then run the test again
+5. Restart with 1.
 
 ## Resolution
 Here we have nothing, so we create our project first:
